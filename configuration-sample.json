@@ -1,7 +1,7 @@
 {
 	"redirectUri": "http://localhost:8000/authorize",
 	"client": {
-		"id": "0774ee53-61a9-4cd0-a6a5-103e43733281",
-		"secret": "dgoAHU1?novcOHNQ1723@(["
+		"id": "ID",
+		"secret": "SEC"
 	}
 }
