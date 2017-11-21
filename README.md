@@ -10,6 +10,7 @@
 
 ### Must Read
 
+- https://github.com/microsoftgraph/microsoft-graph-docs/
 - https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/api/event_get
 - https://developer.microsoft.com/en-us/graph/docs/concepts/query_parameters
 - https://developer.microsoft.com/en-us/graph/graph-explorer
